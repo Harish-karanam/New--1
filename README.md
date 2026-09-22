@@ -10,3 +10,7 @@ Open `index.html` in a browser.
 
 ## Safety note
 The public portfolio intentionally does not display the phone number or email visible in the supplied LinkedIn screenshot. LinkedIn is used as the primary contact channel.
+
+
+https://devpost.com/submit-to/30790-nebius-x-nvidia-global-ai-hackathon/manage/submissions
+https://dev.nebius.com/builders#form
